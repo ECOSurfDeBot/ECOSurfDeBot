@@ -1,6 +1,6 @@
 # ECOSurfDeBot
 
-Eco Surf DeBot
+EcoSurf DeBot
 
 
 https://t.me/SixSixSixTrackingBot
